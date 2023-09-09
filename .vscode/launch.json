@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-QuoraCloneApplication<quoraClone>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "dev.nit.quoraClone.QuoraCloneApplication",
+      "projectName": "quoraClone",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
