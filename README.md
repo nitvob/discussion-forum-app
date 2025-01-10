@@ -51,4 +51,6 @@ To get the project up and running on your local machine, follow these steps:
 
 Once both the frontend and backend are running, you should be able to access the discussion site from your web browser.
 
+---
+
 Happy coding! 🚀
